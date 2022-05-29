@@ -13605,13 +13605,7 @@
       "phone": "+1 (892) 555-2223",
       "location": { "country": "Germany", "address": "145 Celeste Court" }
     },
-    "tags": [
-      "excepteur",
-      "incididunt",
-      "adipisicing",
-      "consectetur",
-      "pariatur"
-    ]
+    "tags": ["excepteur", "incididunt", "adipisicing", "consectetur", "pariatur"]
   },
   {
     "_id": { "$oid": "5ca6fa078e7cfba44f7ed427" },
